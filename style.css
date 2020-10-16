@@ -1,0 +1,69 @@
+body {
+	background: black;
+}
+
+.Post {
+	width: 400px;
+	height: 510px;
+	background: white;
+	margin: auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logohtml i{
+	float: left;
+	margin-left: 10px;
+	font-size: 27px;
+	margin-top: 15px;
+}
+
+.derecha1 i {
+	float: right;
+	margin-right: 10px;
+	font-size: 20px;
+	margin-top: 15px;
+}
+
+div.textoiz {
+	float: left;
+	margin-top: 10px;
+	margin-left: 5px;
+	font-size: 12px;
+}
+
+img {
+	margin-top: 15px;
+}
+
+.iconos {
+	float: left;
+	font-size: 25px;
+	margin-left: 10px;
+}
+
+.bookmark {
+	float: right;
+	margin-right: 10px;
+	font-size: 25px;
+
+}
+
+.izquierda2 {
+	margin-top: 10px;
+}
+
+.liked {
+	float: left;
+	font-size: 14px;
+	margin-left: 12px;
+	margin-top: 15px;
+}
+
+.lorem {
+	float: left;
+	font-size: 14px;
+	margin-left: 12px;
+	margin-top: 5px;
+	margin-right: 12px;
+	display: block;
+}
